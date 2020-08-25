@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1056403605677",
+    "firebase_url": "https://startupapp-vave.firebaseio.com",
+    "project_id": "startupapp-vave",
+    "storage_bucket": "startupapp-vave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056403605677:android:5169d196f2fa1897",
+        "android_client_info": {
+          "package_name": "com.startupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056403605677-ga4u2sotom3d04ath6almlpdd3ihkb0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNH5tWlFsYVwmudzWTsBsPIGx8iE7LlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

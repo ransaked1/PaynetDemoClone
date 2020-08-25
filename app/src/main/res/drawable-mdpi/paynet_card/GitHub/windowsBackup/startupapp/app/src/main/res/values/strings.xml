@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">frnd</string>
+    <string name="edit_phonenr">Enter your phone number</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="facebook_app_id">145522902966135</string>
+    <string name="fb_login_protocol_scheme">fb145522902966135</string>
+</resources>
