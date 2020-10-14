@@ -1,9 +1,0 @@
-# !/bin/bash
-
-./tetri-gen -v -f $1
-cat sample.fillit
-mv sample.fillit ..
-cd ..
-./fillit sample.fillit | cat -e
-rm sample.fillit
-cd Tetriminos-generator
