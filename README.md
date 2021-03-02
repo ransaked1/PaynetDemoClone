@@ -8,6 +8,11 @@ As a learning experience I set out to mimic the [Android app's UI](https://play.
 ### Quick Setup
 Download the project and open it in Android Studio. Use a Virtual Machine or your android phone to run it.
 
+### Compatibility
+Target SDK version - 29
+Minimum SDK version - 21
+Gradle version - 4.0.1
+
 ## Icons credits
 made by <a href="https://www.flaticon.com/authors/google" title="Google">Google</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a><br>
 made by <a href="https://www.flaticon.com/authors/xnimrodx" title="xnimrodx">xnimrodx</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a><br>
